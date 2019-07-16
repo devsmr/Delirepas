@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">delirepas</string>
     <string name="action_settings">Settings</string>
+    
+    <string name="id">Código Arepa</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio">Precio</string>
+    <string name="caloria">Calorias</string>
+    <string name="titulo">Agregar Arepa</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Cancelar">Cancelar</string>
 </resources>
