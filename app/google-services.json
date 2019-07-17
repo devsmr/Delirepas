@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177921320763",
+    "firebase_url": "https://delirepas-fb052.firebaseio.com",
+    "project_id": "delirepas-fb052",
+    "storage_bucket": "delirepas-fb052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177921320763:android:d1983ae61b40396d",
+        "android_client_info": {
+          "package_name": "com.example.inventaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177921320763-p40km6kdu5mb9imr2usi69gn41a7hl8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inventaryapp",
+            "certificate_hash": "adf8f02f7905fab48ed02203f4c5d5e378633e38"
+          }
+        },
+        {
+          "client_id": "177921320763-9pl9t8fckhj76icu8466r8rv762s2uhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKuFkaMcyPOX6kdv13aznfl6qGvjj-Vuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177921320763-9pl9t8fckhj76icu8466r8rv762s2uhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
